@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qitedubivoni.pages.dev/sitemap.xml
